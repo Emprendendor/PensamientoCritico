@@ -1,0 +1,2 @@
+# PensamientoCritico
+eclipse java
